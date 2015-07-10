@@ -4,7 +4,7 @@ The Worktheme platform enables the adroid device user to create work apps by int
 
 The user can use the apps built by themselves for the following.
 
-* Define work definitions
+* Define work types
 * Compose views
 * Configure the collaboration
 * Add collaboration partners
